@@ -3,14 +3,16 @@
 
 name: Build Keybound Brawler Helper
 
-on:
+"on":
   workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: windows-latest
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
