@@ -1,0 +1,11 @@
+</> JSON
+
+
+{
+  "Name": "Keybound Brawler Helper",
+  "Author": "Royal-Bear777",
+  "Punchline": "A manual word-copying helper for Keybound Brawler.",
+  "Description": "An accessibility helper that lets you enter an English word and copy it to your clipboard.",
+  "RepoUrl": "https://github.com/Royal-Bear777/KeyboundBrawlerHelper",
+  "ApplicableVersion": "any"
+}
